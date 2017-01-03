@@ -1,5 +1,5 @@
 # Python_Dice_Rolling_Simulator
-A small Project for me to Lern Python
+A small Project for me to learn Python
 
 
 Dice Rolling Simulator
